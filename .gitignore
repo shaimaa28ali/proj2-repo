@@ -152,6 +152,7 @@ activemq-data/
 .envrc
 .venv
 env/
+__pycache__/
 venv/
 ENV/
 env.bak/
